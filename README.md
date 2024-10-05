@@ -2,7 +2,7 @@
 
 My name is Iga Miękus and since 2018 I have been gaining experience in the IT field in the role of a software quality specialist or, if you prefer, a software tester. I have been involved in the projects for both multinational corporations and local companies. **What marks me out is my particular love for documentation**, which I believe is the foundation of effective project management and ensures transparency at every stage of the project. **I strive to ensure that my actions not only eliminate errors, but also support the long-term success of the projects I work on**.
 
-### Check out my [website](www.igamiekus.pl) to know more about me.
+### Check out my [website](www.igamiekus.pl) or [LinkedIn](https://www.linkedin.com/in/iga-miekus) profile to know more about me.
 
 ___
 
@@ -14,7 +14,7 @@ ___
 ### The courses I've taken recently:
 🏄‍♀️ NoCodeMakers -> [Certificate](https://credsverse.com/credentials/fc24443f-5cc0-4b08-bf05-5ab8f4976bc9)
 
-🫧 'Low Code No Code’ with Bubble
+🫧 'Low Code No Code’ with Bubble by GirlsCodeFun
 
 ### IT events I've recently attended:
 [GDG x CODE:ME] Dzień Programisty 2024

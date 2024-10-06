@@ -6,6 +6,17 @@ My name is Iga Miękus and since 2018 I have been gaining experience in the IT f
 
 ___
 
+### 💪 My TOP 5 Gallup Strenghts:
+1️⃣ **Relator** (I find deep satisfaction in working hard with friends to achieve a goal)
+
+2️⃣ **Intellection** (my powerful mental processing and intellectual activity empower me to clarify and explain, regardless of the topic or situation)
+
+3️⃣ **Learner** (I have a great desire to learn and want to continuously improve, that's why the process of learning excites me)
+
+4️⃣ **Input** (I have a need to collect and archive, I actively seek and store information)
+
+5️⃣ **Responsibility** (I have a deep sense of dedication and feel ownership for my commitments)
+
 ### The courses I'm currently taking:
 🤖 Playwright course from jaktestowac.pl
 
@@ -24,17 +35,6 @@ ___
 Perspektywy Women in Tech Summit 2024
 
 <!--
-
-### 💪 My TOP 5 Gallup Strenghts:
-1️⃣
-
-2️⃣
-
-3️⃣
-
-4️⃣
-
-5️⃣
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

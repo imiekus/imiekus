@@ -2,7 +2,7 @@
 
 My name is Iga Miękus and since 2018 I have been gaining experience in the IT field in the role of a software quality specialist or, if you prefer, a software tester. I have been involved in the projects for both multinational corporations and local companies. **What marks me out is my particular love for documentation**, which I believe is the foundation of effective project management and ensures transparency at every stage of the project. **I strive to ensure that my actions not only eliminate errors, but also support the long-term success of the projects I work on**.
 
-### Check out my [website](www.igamiekus.pl) or [LinkedIn](https://www.linkedin.com/in/iga-miekus) profile to know more about me.
+### Check out my 🔗[website](www.igamiekus.pl) or 🔗[LinkedIn](https://www.linkedin.com/in/iga-miekus) profile or GitHub 🔗[portfolio](https://github.com/imiekus/portfolio) to know more about me and my projects.
 
 ___
 

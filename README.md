@@ -23,25 +23,17 @@ ___
 🦡 Salesforce Associate certificate training
 
 ### The courses I've taken recently:
-🏄‍♀️ NoCodeMakers -> [Certificate](https://credsverse.com/credentials/fc24443f-5cc0-4b08-bf05-5ab8f4976bc9)
+♿ Accessibility Testing – WCAG 2.2 Standards by QualityIsland-> [Certificate](https://verified.sertifier.com/en/verify/25216311980688)
+
+🏄‍♀️ NoCode and AI automation by NoCodeMakers -> [Certificate](https://credsverse.com/credentials/fc24443f-5cc0-4b08-bf05-5ab8f4976bc9)
 
 🫧 'Low Code No Code’ with Bubble by GirlsCodeFun
 
 ### IT events I've recently attended:
-[GDG x CODE:ME] Dzień Programisty 2024
+10.2024 Mentoring Program Closing Ceremony by ITGirls × Symfonia
 
-[WTM#8] - Twoje dokonania nie powiedzą same za siebie - warsztat #Iamremarkable
+09.2024 [GDG x CODE:ME] Dzień Programisty 2024
 
-Perspektywy Women in Tech Summit 2024
+09.2024 [WTM#8] - Twoje dokonania nie powiedzą same za siebie - warsztat #Iamremarkable
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+06.2024 Perspektywy Women in Tech Summit 2024
